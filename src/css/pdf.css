@@ -1,0 +1,27 @@
+img {
+    width: 60%;
+    height: 60%;
+}
+
+.pdf {
+    margin: 50px 80px;
+    display: none;
+}
+
+table img {
+    width: 20%;
+    height: 20%;
+}
+
+table {
+    border-collapse: collapse;
+    width: 60%;
+}
+
+td,tr {
+    border: 0.1px solid black;
+}
+
+p {
+    margin: 0;
+}
